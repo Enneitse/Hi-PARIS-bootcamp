@@ -1,0 +1,11 @@
+Topic and Instructions :
+Business issue
+Scalable
+Sizing the carbon footprint of a company's employee's car fleet.
+INSEE study : The car remains the main way of commuting, even for short distances.
+Objective : Reducing the carbon footprint of cars is a complex project that requires 
+the converging forces of companies, employees, and public authorities at the local and national level.
+
+Data : - labbeled cars' images.
+	 - carbon emissions associated with each car model.
+create features : type of car (car, truck,...)
